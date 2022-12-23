@@ -12,9 +12,9 @@ The exercises are grouped by week and module. **Modules' final projects are not 
 
 - [x] [week-1: Bockchain Criptography](./week1-Blockchain-Cryptography/)
 - [x] [week-2: Blockchain Storage](./week2-Blockchain-Storage/)
-- [ ] [week-3: Ethereum](./week3-Etheruem/)
-- [ ] week-4: Smart Contract Basics (not started)
-- [ ] week-5: Solidity (not available yet)
+- [x] [week-3: Ethereum](./week3-Etheruem/)
+- [ ] week-4: Smart Contract Basics (Currently)
+- [ ] week-5: Solidity (not started yet)
 - [ ] week-6: Solidity Core (not available yet)
 - [ ] week-7: Solidity Next Level (not available yet)
 
