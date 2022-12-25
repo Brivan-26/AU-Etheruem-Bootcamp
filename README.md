@@ -2,9 +2,7 @@
 
 # Alchemy University Ethereum Bootcamp Solutions
 
-
 This repository contains the exercises' solutions for [Alchemy University Ethereum Bootcamp](https://university.alchemy.com/home).
-
 
 ## Folder Structure
 
@@ -13,8 +11,8 @@ The exercises are grouped by week and module. **Modules' final projects are not 
 - [x] [week-1: Bockchain Criptography](./week1-Blockchain-Cryptography/)
 - [x] [week-2: Blockchain Storage](./week2-Blockchain-Storage/)
 - [x] [week-3: Ethereum](./week3-Etheruem/)
-- [ ] week-4: Smart Contract Basics (Currently)
-- [ ] week-5: Solidity (not started yet)
+- [x] [week-4: Smart Contract Basics](./week4-Smart-Contract-Basics/)
+- [ ] week-5: Solidity (Currently)
 - [ ] week-6: Solidity Core (not available yet)
 - [ ] week-7: Solidity Next Level (not available yet)
 
